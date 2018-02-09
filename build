@@ -1,5 +1,0 @@
-.component2 {
-  background: "@@theme/primary"; }
-
-.component1 {
-  background: "@@theme/accent"; }
