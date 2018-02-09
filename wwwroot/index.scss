@@ -1,0 +1,10 @@
+$primary: '@@theme/primary';
+$accent: '@@theme/accent';
+
+.component2 {
+    background: $primary;
+}
+
+.component1 {
+    background: $accent;
+}
